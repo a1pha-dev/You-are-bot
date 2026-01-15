@@ -1,3 +1,6 @@
+## Introduction
+This repository contains the solution to same-named [Kaggle competition](https://www.kaggle.com/competitions/you-are-bot).
+
 ### Key to solution
 
 Basically, the concept is in to train not only one model at time, but two: first will be training to precise bot and second - human. 
